@@ -1,0 +1,41 @@
+*{
+    box-sizing: border-box;
+    margin: 0px;
+    padding: auto;
+}
+body{
+    background-image: url(subway.jpg);
+    background-size: cover;
+    text-align: center
+}
+h1{
+    text-align: center;
+    color:antiquewhite;
+    margin-top: 20px;
+
+}
+h2{
+    text-align: center;
+    color: whitesmoke;
+    margin-top: 20px;
+
+}
+#increment-btn{
+    background-color: chocolate;
+font-size: 20px;
+color: lemonchiffon;
+padding:10px 10px 10px 10px;
+text-align: center;
+margin-bottom: 20px;
+}
+#save-btn{
+    background-color: chocolate;
+font-size: 20px;
+color: lemonchiffon;
+padding:10px 10px 10px 10px;
+text-align: center;
+margin-top: 20px;
+}
+#save-el{
+    color: beige;
+}
